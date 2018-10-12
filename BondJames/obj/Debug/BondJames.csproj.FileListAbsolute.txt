@@ -1,0 +1,7 @@
+\\mi\dfs\users\LChang\Desktop\Assessment 1\BondJames\BondJames\bin\Debug\BondJames.exe.config
+\\mi\dfs\users\LChang\Desktop\Assessment 1\BondJames\BondJames\bin\Debug\BondJames.exe
+\\mi\dfs\users\LChang\Desktop\Assessment 1\BondJames\BondJames\bin\Debug\BondJames.pdb
+\\mi\dfs\users\LChang\Desktop\Assessment 1\BondJames\BondJames\obj\Debug\BondJames.csprojAssemblyReference.cache
+\\mi\dfs\users\LChang\Desktop\Assessment 1\BondJames\BondJames\obj\Debug\BondJames.csproj.CoreCompileInputs.cache
+\\mi\dfs\users\LChang\Desktop\Assessment 1\BondJames\BondJames\obj\Debug\BondJames.exe
+\\mi\dfs\users\LChang\Desktop\Assessment 1\BondJames\BondJames\obj\Debug\BondJames.pdb
